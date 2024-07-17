@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on **Korea Tourism Data Analysis Contest**
 
+- 🔭 I’m currently also working on **E-Commerce Data Analysis Project**
+
 - 📫 How to reach me **neddy0318@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

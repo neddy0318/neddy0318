@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neddy0318&label=Profile%20views&color=0e75b6&style=flat" alt="neddy0318" /> </p>
 
-- 🔭 I’m currently working on **Korea Tourism Data Analysis Contest**
-
-- 🔭 I’m currently also working on **E-Commerce Data Analysis Project**
+- 🔭 I’m currently working on **E-Commerce Data Analysis Project**
 
 - 📫 How to reach me **neddy0318@gmail.com**
 
